@@ -102,6 +102,10 @@ a:hover, a:focus {
     color: #FFF;
 }
 
+.black-text {
+    color: #000000;	
+}
+
 ::-moz-selection {
     background-color: #6195FF;
     color: #FFF;
